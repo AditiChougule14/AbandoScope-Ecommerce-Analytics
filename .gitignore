@@ -1,0 +1,16 @@
+﻿# Large datasets
+data/raw/
+data/processed/clean_2019_oct*
+
+# Temporary files
+tmp/
+__pycache__/
+*.pyc
+
+# Backup files
+*.bak
+
+# Environment files
+.env
+.venv/
+venv/

@@ -1,0 +1,8 @@
+metric,value
+total_sessions,9244423
+sessions_with_view,9242653
+sessions_with_cart,573099
+sessions_with_purchase,629560
+abandoned_sessions,281238
+cart_abandonment_rate,0.490732
+abandoned_cart_value,137874554.17
